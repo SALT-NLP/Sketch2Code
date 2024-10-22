@@ -94,9 +94,9 @@ The `demo/` directory contains the source code for our Sketch2Code Demo Agent. T
 cd demo
 streamlit run app.py
 ```
-Alternatively, you may access our existing deployment [here](https://sketch2code-demo.streamlit.app/).
+Alternatively, you may access our existing deployment [here](https://sketch2code-demo.streamlit.app/). Click below the watch the video demo:
 
-[![Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fofe3yJNAJnU)](https://youtu.be/ofe3yJNAJnU)
+[![Video Demo](assets/screenshot.png)](https://youtu.be/ofe3yJNAJnU)
 
 ## Acknowledgement
 The Sketch2Code dataset and codebase are built on top of [Design2Code](https://github.com/NoviScl/Design2Code), which is under these licenses: [code license](https://github.com/NoviScl/Design2Code/blob/main/CODE_LICENSE), [data_license](https://github.com/NoviScl/Design2Code/blob/main/DATA_LICENSE). We distribute our work under the same licenses. Thanks for the amazing work!
