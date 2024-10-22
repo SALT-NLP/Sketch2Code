@@ -5,7 +5,7 @@ Quick Links:
 [[Video]](https://youtu.be/lacoqfNdZgg)
 [[Live Demo]](https://sketch2code-demo.streamlit.app/) 
 [[Project Page]](https://salt-nlp.github.io/Sketch2Code-Project-Page/)
-[[Paper]](...)
+[[Paper]](https://arxiv.org/abs/2410.16232)
 
 ## Overview
 
@@ -104,10 +104,14 @@ The Sketch2Code dataset and codebase are built on top of [Design2Code](https://g
 If you find our work helpful, please consider citing our paper:
 
 ```
-@misc{li2024sketch2code,
-    title={Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping},
-    author={Ryan Li and Yanzhe Zhang and Diyi Yang},
-    year={2024},
+@misc{li2024sketch2codeevaluatingvisionlanguagemodels,
+      title={Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping}, 
+      author={Ryan Li and Yanzhe Zhang and Diyi Yang},
+      year={2024},
+      eprint={2410.16232},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.16232}, 
 }
 ```
 
