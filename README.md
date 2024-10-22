@@ -2,7 +2,7 @@
 
 Quick Links:
 [[Dataset]](https://huggingface.co/datasets/SALT-NLP/Sketch2Code) 
-[[Video]](https://youtu.be/lacoqfNdZgg)
+[[Video]](https://youtu.be/ofe3yJNAJnU)
 [[Live Demo]](https://sketch2code-demo.streamlit.app/) 
 [[Project Page]](https://salt-nlp.github.io/Sketch2Code-Project-Page/)
 [[Paper]](https://arxiv.org/abs/2410.16232)
