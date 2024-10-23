@@ -503,7 +503,7 @@ def visual_eval_v3_multi(input_list, debug=False):
         for i, j, text_similarity in matching:
             sum_block_area = predict_blocks_m[i]['bbox'][2] * predict_blocks_m[i]['bbox'][3] + original_blocks_m[j]['bbox'][2] * original_blocks_m[j]['bbox'][3]
 
-            # Consider the max postion shift, either horizontally or vertically
+            # Consider the max position shift, either horizontally or vertically
             position_similarity = 1 - calculate_distance_max_1d(predict_blocks_m[i]['bbox'][0] + predict_blocks_m[i]['bbox'][2] / 2, \
                                                     predict_blocks_m[i]['bbox'][1] + predict_blocks_m[i]['bbox'][3] / 2, \
                                                     original_blocks_m[j]['bbox'][0] + original_blocks_m[j]['bbox'][2] / 2, \
