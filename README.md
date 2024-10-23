@@ -43,9 +43,9 @@ python3 -m playwright install
 
 Set up the API Keys for OpenAI, Anthropic, and Gemini to use the corresponding models:
 ```
-EXPORT OPENAI_API_KEY={Your_OpenAI_API_Key}
-EXPORT ANTHROPIC_API_KEY={Your_Anthropic_API_Key}
-EXPORT GOOGLE_API_KEY={Your_Gemini_API_Key}
+export OPENAI_API_KEY={Your_OpenAI_API_Key}
+export ANTHROPIC_API_KEY={Your_Anthropic_API_Key}
+export GOOGLE_API_KEY={Your_Gemini_API_Key}
 ```
 
 Note that you don't need to have all the api keys. You may only export the ones that you are planning to benchmark.
